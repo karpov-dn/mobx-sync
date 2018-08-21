@@ -26,16 +26,15 @@
     "url": "https://github.com/acrazing/mobx-sync/issues"
   },
   "homepage": "https://github.com/acrazing/mobx-sync#readme",
-  "dependencies": {
-    "mobx": "*",
-    "monofile-utilities": "^1.7.3",
-    "tslib": "*"
-  },
+  "dependencies": {},
   "devDependencies": {
     "@types/mocha": "^5.2.3",
     "@types/node": "^10.3.6",
     "mocha": "^5.2.0",
     "ts-node": "^7.0.0",
-    "typescript": "^2.9.2"
+    "typescript": "^2.9.2",
+    "mobx": "*",
+    "monofile-utilities": "^1.7.3",
+    "tslib": "*"
   }
 }
